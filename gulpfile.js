@@ -17,3 +17,6 @@ gulp.task('scripts', function () {
 gulp.task('watch', ['scripts'], function() {
     gulp.watch('/app/**/*.ts', ['scripts']);
 });
+
+
+http://almerosteyn.com/2016/02/angular15-component-typescript
